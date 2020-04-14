@@ -9,7 +9,7 @@ Trading bots are programs that connect to a user’s cryptocurrency exchange and
 
 >WebCrawler: https://scrapy.org/ and https://flask.palletsprojects.com/en/1.1.x/
 
-## Info ##
+## Information ##
 
 - Trading Stategies: https://gekko.wizb.it/docs/strategies/creating_a_strategy.html
 
