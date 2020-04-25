@@ -3,6 +3,10 @@ Trading bots are programs that connect to a user’s cryptocurrency exchange and
 
 ## Resources ##
 
+>https://nomics.com/ 
+
+>https://docs.nomics.com/
+
 >Luno Api Documentation: https://www.luno.com/en/developers/api
 
 >Telegram Bot Api: https://core.telegram.org/bots/api
