@@ -6,6 +6,7 @@ Trading bots are programs that connect to a user’s cryptocurrency exchange and
 >Luno Api Documentation: https://www.luno.com/en/developers/api
 
 >Telegram Bot Api: https://core.telegram.org/bots/api
+(Note: The official Luno API Handler is written in GO!)
 
 >WebCrawler: https://scrapy.org/ and https://flask.palletsprojects.com/en/1.1.x/
 
