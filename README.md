@@ -12,6 +12,12 @@ Trading bots are programs that connect to a user’s cryptocurrency exchange and
 
 >WebCrawler: https://scrapy.org/ and https://flask.palletsprojects.com/en/1.1.x/
 
+## Finance API's ##
+
+Google API is depricated and not supported by google anymore.
+
+Basic Yahoo API works good, However the premium version can not be obtained in South Africa, might have to look at using a VPN.
+
 ## Information ##
 
 - Trading Stategies: https://gekko.wizb.it/docs/strategies/creating_a_strategy.html
