@@ -10,7 +10,7 @@
 
 > https://superiornorthllc.com/2019/09/08/warren-buffetts-cigar-butt-approach-to-investing/
 
-### Gekko Trading Strategy ###
+### Gekko Trading Strategy: ###
 
 > Trading Stategies: https://gekko.wizb.it/docs/strategies/creating_a_strategy.html
 
