@@ -20,7 +20,7 @@ Basic Yahoo API works good, However the premium version can not be obtained in S
 
 ## Strategies ##
 
-### Warren Buffett's Approce to Investing ###
+### Warren Buffett's Approce to Investing: ###
 
 ![](Images/cigarbutt.jpg)
 
