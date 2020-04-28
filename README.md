@@ -4,7 +4,7 @@
 
 ## Strategies ##
 
-### Warren Buffett's Approce to Investing: ###
+### Warren Buffett's Approach to Investing: ###
 
 ![](Images/cigarbutt.jpg)
 
