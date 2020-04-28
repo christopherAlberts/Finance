@@ -18,6 +18,14 @@ Google API is depricated and not supported by google anymore.
 
 Basic Yahoo API works good, However the premium version can not be obtained in South Africa, might have to look at using a VPN.
 
+## Strategies ##
+
+### Warren Buffett's Approce to Investing ###
+
+![](Images/cigarbutt.jpg)
+
+> https://superiornorthllc.com/2019/09/08/warren-buffetts-cigar-butt-approach-to-investing/
+
 ## Information ##
 
 - Trading Stategies: https://gekko.wizb.it/docs/strategies/creating_a_strategy.html
