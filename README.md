@@ -1,5 +1,7 @@
 # Finance
 
+![](Images/wallstreet.png)
+
 ## Strategies ##
 
 ### Warren Buffett's Approce to Investing: ###
