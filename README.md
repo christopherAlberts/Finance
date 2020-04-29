@@ -20,7 +20,7 @@
 
 - Basic Yahoo API works good, However the premium version can not be obtained in South Africa, might have to look at using a VPN.
 
-- https://nomics.com/  
+- https://nomics.com/  (CRYPTO Only!)
 
 ## Resources ##
 
